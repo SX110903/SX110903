@@ -2,7 +2,7 @@
 
 ## 🚀 Telecomunication Engineer en formación | Sistemas & Telemática
 
-🌟 Soy un apasionado de la **tecnología** en constante aprendizaje, enfocado en **DevOps**, **Administración de Sistemas** y **Telemática**
+🌟 Soy un apasionado de la **tecnología** en constante aprendizaje, enfocado en **Automatizacion**, **Diseño de Sistemas** y **Telemática**
 
 🚀 Mi objetivo es convertirme en un **DevOps Engineer** experto y contribuir a proyectos que marquen la diferencia
 
