@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy SX110903
 
-## 🚀 DevOps Engineer en formación | Sistemas & Telemática
+## 🚀 Telecomunication Engineer en formación | Sistemas & Telemática
 
 🌟 Soy un apasionado de la **tecnología** en constante aprendizaje, enfocado en **DevOps**, **Administración de Sistemas** y **Telemática**
 
