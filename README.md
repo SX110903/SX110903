@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy SX110903
 
-## 🚀 Telecomunication Engineer en formación | Sistemas & Telemática
+## 🚀 Telecomunication Engineer | Sistemas & Telemática
 
 🌟 Soy un apasionado de la **tecnología** en constante aprendizaje, enfocado en **Automatizacion**, **Diseño de Sistemas** y **Telemática**
 
