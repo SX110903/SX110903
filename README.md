@@ -4,7 +4,7 @@
 
 🌟 Soy un apasionado de la **tecnología** en constante aprendizaje, enfocado en **Automatizacion**, **Diseño de Sistemas** y **Telemática**
 
-🚀 Mi objetivo es convertirme en un **DevOps Engineer** experto y contribuir a proyectos que marquen la diferencia
+🚀 Mi objetivo es mejorar en  **Network Engineer**  y en Analista de trafico contribuir a proyectos que marquen la diferencia
 
 🔭 Actualmente explorando el ecosistema de **contenedores**, **orquestación** y **automatización de infraestructura**
 
