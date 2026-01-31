@@ -63,32 +63,13 @@
 
 ---
 
-## 🎯 **Objetivos de Aprendizaje 2025**
+## 🎯 **Objetivos de Aprendizaje 2026**
 
-### DevOps
-- 🚀 Masterizar CI/CD pipelines con Jenkins y GitHub Actions
-- 🐳 Profundizar en Docker y Kubernetes para producción
-- 📊 Implementar monitoring completo con Prometheus/Grafana
-- 🔒 Especialización en DevSecOps y seguridad
+
 
 ### Cloud Computing
 - ☁️ Certificación AWS Solutions Architect Associate
-- 🏗️ Dominar Infrastructure as Code con Terraform
-- 🔄 Arquitecturas serverless y microservicios
 
-### Backend, Web & Datos
-- 🧠 Construir APIs con **Go** (REST/gRPC) y servicios con **Node.js**
-- 🌐 Mejorar bases sólidas en **HTML/CSS** y consumo de APIs con **JavaScript**
-- 🗄️ Modelado y optimización de consultas **SQL** (PostgreSQL/MySQL)
-- 🍃 Manejo de datos NoSQL con **MongoDB** (modelos, índices y agregaciones)
-
-### Sistemas & Telemática
-- 🐧 Administración avanzada de Linux
-- ⚡ Automatización con Ansible y scripting
-- 🌐 Networking avanzado y troubleshooting
-- 📡 SDN (Software Defined Networking)
-- 🔗 NFV (Network Function Virtualization)
-- 🕵️ Análisis de tráfico (captura, filtros, troubleshooting)
 
 ---
 
@@ -98,25 +79,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=SX110903&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 
----
 
-## 🌱 **Aprendizaje Continuo**
-
-### 📚 **Actualmente estudiando:**
-- 🔥 **Docker & Kubernetes** - Contenedores en producción
-- ☁️ **AWS Cloud Practitioner** - Fundamentos de nube
-- 🔧 **Terraform** - Infrastructure as Code
-- 📊 **Prometheus & Grafana** - Monitoring y observabilidad
-- 🧩 **Go & JavaScript** - APIs, automatización y herramientas internas
-- 🗄️ **SQL & MongoDB** - Modelado, índices y optimización
-
-### 🎯 **Certificaciones objetivo:**
-- [ ] AWS Certified Cloud Practitioner
-- [ ] Docker Certified Associate (DCA)
-- [ ] Certified Kubernetes Administrator (CKA)
-- [ ] HashiCorp Certified: Terraform Associate
-
----
 
 ## 📫 **¡Conectemos!**
 
