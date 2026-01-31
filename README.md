@@ -3,7 +3,8 @@
 ## 🚀 Telecomunication Engineer | Sistemas, Telemática & DevOps
 
 🌟 Soy un apasionado de la **tecnología** en constante aprendizaje, enfocado en **Automatización**, **Diseño de Sistemas** y **Telemática**.  
-🧩 También trabajo con **Go (Golang)**, **JavaScript**, **HTML/CSS**, **SQL** y **MongoDB** para construir y automatizar soluciones end-to-end.
+🧩 Desarrollo soluciones end-to-end con **Go (Golang)**, **JavaScript**, **HTML/CSS**, **SQL** y **MongoDB**, construyendo **APIs RESTful** y servicios **gRPC**.
+
 
 🚀 Mi objetivo es mejorar como **Network Engineer** y como **Analista de tráfico**, contribuyendo a proyectos que marquen la diferencia.
 
