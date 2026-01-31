@@ -1,14 +1,15 @@
 # 👋 ¡Hola! Soy SX110903
 
-## 🚀 Telecomunication Engineer | Sistemas & Telemática
+## 🚀 Telecomunication Engineer | Sistemas, Telemática & DevOps
 
-🌟 Soy un apasionado de la **tecnología** en constante aprendizaje, enfocado en **Automatizacion**, **Diseño de Sistemas** y **Telemática**
+🌟 Soy un apasionado de la **tecnología** en constante aprendizaje, enfocado en **Automatización**, **Diseño de Sistemas** y **Telemática**.  
+🧩 También trabajo con **Go (Golang)**, **JavaScript**, **HTML/CSS**, **SQL** y **MongoDB** para construir y automatizar soluciones end-to-end.
 
-🚀 Mi objetivo es mejorar en  **Network Engineer**  y en Analista de trafico contribuir a proyectos que marquen la diferencia
+🚀 Mi objetivo es mejorar como **Network Engineer** y como **Analista de tráfico**, contribuyendo a proyectos que marquen la diferencia.
 
-🔭 Actualmente explorando el ecosistema de **contenedores**, **orquestación** y **automatización de infraestructura**
+🔭 Actualmente explorando el ecosistema de **contenedores**, **orquestación** y **automatización de infraestructura**.
 
-📚 Siempre buscando aprender nuevas tecnologías y mejores prácticas
+📚 Siempre buscando aprender nuevas tecnologías y mejores prácticas.
 
 ---
 
@@ -41,9 +42,24 @@
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### 💻 **Lenguajes & Scripts**
+### 🧩 **Lenguajes, Scripting & Backend**
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🌐 **Frontend & Web**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ **Bases de Datos**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🕵️ **Networking & Análisis de Tráfico**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
@@ -60,12 +76,19 @@
 - 🏗️ Dominar Infrastructure as Code con Terraform
 - 🔄 Arquitecturas serverless y microservicios
 
+### Backend, Web & Datos
+- 🧠 Construir APIs con **Go** (REST/gRPC) y servicios con **Node.js**
+- 🌐 Mejorar bases sólidas en **HTML/CSS** y consumo de APIs con **JavaScript**
+- 🗄️ Modelado y optimización de consultas **SQL** (PostgreSQL/MySQL)
+- 🍃 Manejo de datos NoSQL con **MongoDB** (modelos, índices y agregaciones)
+
 ### Sistemas & Telemática
 - 🐧 Administración avanzada de Linux
 - ⚡ Automatización con Ansible y scripting
 - 🌐 Networking avanzado y troubleshooting
 - 📡 SDN (Software Defined Networking)
 - 🔗 NFV (Network Function Virtualization)
+- 🕵️ Análisis de tráfico (captura, filtros, troubleshooting)
 
 ---
 
@@ -84,6 +107,8 @@
 - ☁️ **AWS Cloud Practitioner** - Fundamentos de nube
 - 🔧 **Terraform** - Infrastructure as Code
 - 📊 **Prometheus & Grafana** - Monitoring y observabilidad
+- 🧩 **Go & JavaScript** - APIs, automatización y herramientas internas
+- 🗄️ **SQL & MongoDB** - Modelado, índices y optimización
 
 ### 🎯 **Certificaciones objetivo:**
 - [ ] AWS Certified Cloud Practitioner
@@ -110,4 +135,4 @@
 ---
 
 ### ⭐ **¡Gracias por visitar mi perfil!** ⭐
-*Si te interesa colaborar en proyectos de DevOps o compartir conocimientos, ¡no dudes en contactarme!*
+*Si te interesa colaborar en proyectos de DevOps, Networking o automatización, ¡no dudes en contactarme!*
