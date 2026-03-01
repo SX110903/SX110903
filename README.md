@@ -3,8 +3,7 @@
 ## 🚀 Telecomunication Engineer | Sistemas, Telemática & DevOps
 
 🌟 Soy un apasionado de la **tecnología** en constante aprendizaje, enfocado en **Automatización**, **Diseño de Sistemas** y **Telemática**.  
-🧩 Desarrollo soluciones end-to-end con **Go (Golang)**, **JavaScript**, **HTML/CSS**, **SQL** y **MongoDB**, construyendo **APIs RESTful** y servicios **gRPC**.
-
+🧩 Desarrollo soluciones end-to-end con **Go (Golang)**, **JavaScript**, **HTML/CSS**, **PHP**, **SQL** y **MongoDB**, construyendo **APIs RESTful** y servicios **gRPC**.
 
 🚀 Mi objetivo es mejorar como **Network Engineer** y como **Analista de tráfico**, contribuyendo a proyectos que marquen la diferencia.
 
@@ -27,8 +26,6 @@
 
 ### ☁️ **Cloud Computing**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🔧 **DevOps & CI/CD**
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -48,6 +45,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🌐 **Frontend & Web**
@@ -66,21 +64,26 @@
 
 ## 🎯 **Objetivos de Aprendizaje 2026**
 
-
-
-### Cloud Computing
-- ☁️ Certificación AWS Solutions Architect Associate
-
+### ☁️ Cloud Computing
+- ☁️ Certificación AWS Cloud Pracctioner (Pendiente certificado)
 
 ---
 
 ## 📊 **Estadísticas de GitHub**
 
-![SX110903's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SX110903&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=SX110903&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+![SX110903's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SX110903&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=SX110903&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=SX110903&theme=radical&hide_border=true&background=0d1117)
+
+![SX110903's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SX110903&theme=react-dark&hide_border=true&bg_color=0d1117)
+
+</div>
+
+---
 
 ## 📫 **¡Conectemos!**
 
