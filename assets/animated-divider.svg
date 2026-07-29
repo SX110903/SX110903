@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110" role="img" aria-labelledby="title">
+  <title id="title">Build, automate, observe, improve</title>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset=".25" stop-color="#22d3ee"/>
+      <stop offset=".5" stop-color="#8b5cf6"/>
+      <stop offset=".75" stop-color="#ec4899"/>
+      <stop offset="1" stop-color="#ec4899" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <path id="flow" d="M30 54 C180 10 280 98 430 54 S710 10 970 54"/>
+    <style>
+      text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .label { animation: breathe 3s ease-in-out infinite; }
+      @keyframes breathe {
+        0%, 100% { opacity: .55; letter-spacing: 5px; }
+        50% { opacity: 1; letter-spacing: 7px; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1000" height="110" fill="#050816" fill-opacity="0"/>
+  <use href="#flow" fill="none" stroke="url(#line)" stroke-width="2" stroke-dasharray="5 9">
+    <animate attributeName="stroke-dashoffset" values="0;-140" dur="5s" repeatCount="indefinite"/>
+  </use>
+  <g filter="url(#glow)">
+    <circle r="5" fill="#22d3ee">
+      <animateMotion dur="4s" repeatCount="indefinite"><mpath href="#flow"/></animateMotion>
+    </circle>
+    <circle r="4" fill="#a78bfa">
+      <animateMotion dur="4s" begin="-1.35s" repeatCount="indefinite"><mpath href="#flow"/></animateMotion>
+    </circle>
+    <circle r="5" fill="#ec4899">
+      <animateMotion dur="4s" begin="-2.7s" repeatCount="indefinite"><mpath href="#flow"/></animateMotion>
+    </circle>
+  </g>
+  <rect x="250" y="41" width="500" height="28" rx="14" fill="#050816" fill-opacity=".92"/>
+  <text x="500" y="60" text-anchor="middle" fill="#c4b5fd" font-size="14" font-weight="700" class="label">BUILD · AUTOMATE · OBSERVE · IMPROVE</text>
+</svg>
